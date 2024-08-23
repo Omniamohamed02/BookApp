@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="read">Want to read</string>
+    <string name="notification">Notifiacation</string>
+    <string name="my_name">Omnia Mohamed</string>
+    <string name="reviews">Reviews\n</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting\n</string>
+    <string name="profil">Profile</string>
+    <string name="profile_clicked">Profile Clicked</string>
+    <string name="settings_clicked">Setting Clicked</string>
+    <string name="reviews_clicked">Reviews clicked</string>
+    <string name="search_clicked">Search Clicked</string>
+    <string name="favorite_clicked">Favorite Clicked</string>
+    <string name="notification_clicked">Notifcation_Clicked</string>
+
+</resources>
